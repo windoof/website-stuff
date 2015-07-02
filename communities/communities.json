@@ -712,5 +712,24 @@
         "mail": "info@freifunk-datteln.de"
       }
     ]
-  }
+  },
+    {
+    "name": "Freifunk Sprockhoevel",
+    "url": "http://www.freifunk-sprockhoevel.de",
+    "map": "https://mesh.freifunk-sprockhoevel.de/",
+    "prefix": "FF-EN-SPR",
+    "contacts": [
+      {
+        "firstname": "Lars",
+        "lastname": "Langewiesche",
+        "nick": "LaLa",
+        "mail": "freifunk@freifunk-sprockhoevel.de"
+      },
+      {
+        "firstname": "Matthes",
+        "lastname": "F.",
+        "nick": "",
+        "mail": "mattes@freifunk-sprockhoevel.de"
+      }
+    ]
 ]
